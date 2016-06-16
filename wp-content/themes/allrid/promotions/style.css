@@ -1,0 +1,255 @@
+/*
+Theme Name: Pest Control Adwars Template
+Theme URI: mithun.me
+Author: Halfway
+Author URI: mithun.me
+Description: Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.
+Version: 1.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, blue, gray, pink, purple, white, yellow, dark, light, two-columns, left-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+Text Domain: twentyfifteen
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+.header{
+  background: #D8EECD;
+      padding: 20px 0px;
+}
+
+a{
+  color: #57595E;
+  text-decoration: none;
+}
+
+a:hover{
+  color: rgba(142,200,49,1);
+  text-decoration: none;
+}
+
+#logo{
+  width: 100%;
+  float: left;
+}
+
+#logo a{
+  width: 100%;
+  float: left;
+}
+
+#logo a img{
+  width: 60%;
+}
+
+.to_address{
+    
+    float: right;
+}
+
+.to_address .top_guarantee_text{
+      float: right;
+    width: 400px;
+    position: relative;
+}
+
+.to_address .top_guarantee_text .contacts{
+    font-size: 18px;
+    font-weight: 700;
+    color: #57595E;
+}
+
+.to_address .top_guarantee_text .location{
+      color: #57595E;
+    font-size: 12px;
+}
+
+.to_address .top_gurantee_imgage{
+      float: left;
+    position: absolute;
+    width: 80px;
+    top: 0px;
+    right: 0px;
+}
+
+.to_address .top_gurantee_imgage img{
+  width: 100%;
+}
+
+.tagline-bar{
+      background: #6EC248;
+    color: #fff;
+    text-align: center;
+    font-size: 11px;
+}
+
+.tagline-bar h2{
+      margin-top: 10px;
+    margin-bottom: 12px;
+    font-size: 25px;
+}
+
+.add_body{
+      background: #000 url("../images/promotions/bg-img.jpg") no-repeat center;
+    background-size: cover;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    color: #fff;
+}
+
+.insect_photo{
+      width: 100%;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.insect_photo img{
+  width: 100%;
+}
+
+.body-text-container{
+  width: 100%;
+  float: left;
+  padding: 15px;
+}
+
+.body-text-container p{
+      line-height: 18px;
+    margin-bottom: 15px;
+}
+
+.body-text-container ul{
+      width: 30%;
+    float: left;
+    margin-left: 3%;
+}
+
+.body-text-container ul li{
+
+}
+
+.tagline-bar.currentspecials{
+  background: #7A8D4C;
+  margin-bottom: 25px;
+}
+
+.offer_container{
+
+    background-color: #D62313;
+    border: 2px dashed #2D342D;
+    min-height: 270px;
+    padding: 10px;
+    margin-top: 2px;
+    margin-bottom: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.offer_container .pest_name{
+  font-size: 20px;
+}
+
+.offer_container .money{
+  font-size: 40px;
+  margin-bottom: 8px;
+}
+
+.offer_container .short_desc{
+  font-size: 16px;
+}
+
+.offer_container .small-text{
+  font-size: 12px;
+      margin-top: 20px;
+}
+
+.body-text-container p.text-align-center{
+  text-align: center;
+  margin-top: 40px;
+}
+
+.body-text-container p.text-align-center.footer{
+
+    width: 70%;
+    margin: auto;
+    font-size: 12px;
+}
+@media(max-width: 980px){
+
+  #logo a img{
+    width: 100%
+  }
+}
+
+@media(max-width: 640px){
+  #logo a img {
+      margin-bottom: 15px;
+      width: 40%;
+  }
+
+  #logo{
+    text-align: center;
+  }
+
+  .to_address{
+    float: left;
+    margin-left: 25%;
+  }
+
+  .tagline-bar h2{
+    font-size: 20px;
+  }
+}
+
+@media(max-width: 480px){
+  .to_address{
+    margin-left: 0%;
+  }
+
+  .to_address .top_guarantee_text .contacts{
+    font-size: 16px;
+  }
+
+  .to_address .top_guarantee_text .location{
+    font-size: 10px;
+  }
+
+  .top_gurantee_imgage{
+    display: none;
+  }
+
+  .tagline-bar h2 {
+      font-size: 16px;
+      margin-bottom: 12px;
+  }
+
+  .body-text-container ul{
+    margin-left: 1%;
+  }
+
+  .offer_container{
+    min-height: 330px;
+  }
+}
+
+@media(max-width: 360px){
+  #logo a img{
+    width: 50%;
+  }
+
+  .body-text-container ul{
+    width: 100%;
+    float: left;
+    margin-left: 0%;
+  }
+
+  .to_address .top_guarantee_text{
+    width: auto;
+  }
+
+  .width100-360{
+    width: 100%;
+  }
+}

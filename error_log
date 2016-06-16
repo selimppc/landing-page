@@ -1,0 +1,4 @@
+[20-Apr-2016 20:09:27 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/allridpe/public_html/wp-includes/query.php on line 1578
+[04-May-2016 03:14:11 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/allridpe/public_html/wp-includes/query.php on line 1578
+[04-May-2016 06:25:25 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/allridpe/public_html/wp-includes/query.php on line 1578
+[19-May-2016 11:23:40 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/allridpe/public_html/wp-includes/query.php on line 1578

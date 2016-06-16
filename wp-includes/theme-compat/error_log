@@ -1,0 +1,4 @@
+[01-Nov-2015 18:13:23 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/allridpe/public_html/wp-includes/theme-compat/comments.php on line 10
+[01-Nov-2015 18:13:24 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/allridpe/public_html/wp-includes/theme-compat/footer.php on line 10
+[01-Nov-2015 18:13:24 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/allridpe/public_html/wp-includes/theme-compat/header.php on line 10
+[01-Nov-2015 18:13:25 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/allridpe/public_html/wp-includes/theme-compat/sidebar.php on line 10

@@ -1,0 +1,1 @@
+[07-Dec-2015 14:31:01 Australia/Sydney] PHP Fatal error:  Call to undefined function add_action() in /home/allridpe/public_html/wp-content/plugins/advanced-post-slider/advanced-post-slider.php on line 16

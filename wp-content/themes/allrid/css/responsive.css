@@ -1,0 +1,368 @@
+/* 4. RESPONSIVE
+--------------------------------------------------------------------------------
+==============================================================================*/
+
+@media screen and (max-device-width: 1015px), (max-width: 1015px) {
+
+	.get-a-quote {
+		height: auto;
+	}
+
+	.get-a-quote:after {
+		display: none;
+	}
+
+	.get-your-obligation {
+		float: none;
+		margin: 0 auto;
+	}
+
+	.why-angel-carpet-cleaning {
+		padding-top: 5px;
+	}
+
+	.quality-carpet-cleaning {
+		float: none;
+		width: auto;
+		text-align: center;
+		padding-bottom: 40px;
+		background: none;
+	}
+
+	.quality-carpet-cleaning h2 {
+		margin-left: 0;
+	}
+
+	.quality-carpet-cleaning h2 + p {
+		text-align: center;
+		width: auto;
+		margin-left: 0;
+	}
+
+	.quality-carpet-cleaning p.ir {
+		display: none;
+	}
+
+	.carpet-cleaning-specialists, .why-angel {
+		float: none;
+		margin: 24px auto;
+	}
+
+	.our-sydney-carpet-cleaning-process {
+		margin-top: 0;
+		border-top: 0;
+		padding-top: 10px;
+		width: 300px;
+	}
+
+	.our-sydney {
+		margin-bottom: 10px;
+	}
+
+	.before-and-after p, .before-and-after p:first-child {
+		margin-left: 0;
+	}
+
+	.before-and-after p {
+		margin-bottom: 10px;
+	}
+
+	.before-and-after p:first-child {
+		margin-right: 10px;
+	}
+
+	.what-are-you-waiting-for {
+		height: 130px;
+		padding-top: 1px;
+		background-image: none;
+	}
+
+	.what-are-you-waiting-for-inner {
+		height: 100%;
+		padding-top: 1px;
+		background-image: url('../images/bg_bottom-banner-responsive.png');
+		background-repeat: no-repeat;
+		margin-top: -1px;
+		margin-right: 10px;
+	}
+
+	.what-are-you-waiting-for-inner:before {
+		content: "";
+		display: block;
+		position: absolute;
+		width: 43px;
+		height: 131px;
+		background: url('../images/bg_bottom-banner-responsive-right-part.png') no-repeat;
+		right: 0;
+		top: 0;
+	}
+
+	.what-are-you {
+		margin: 0 auto;
+		/*background: rgba(0,0,0,.3);*/
+		text-align: center;
+		float: none;
+		padding-top: 0;
+		margin-top: 20px;
+		padding-left: 0;
+		position: relative;
+		width: 390px !important;
+	}
+
+	.freecall {
+		display: none;
+	}
+
+	.freecall-quote {
+		float: none;
+		margin: 20px auto;
+	}
+
+	.bottom-menu {
+		margin-top: 0;
+	}
+
+}
+
+@media screen and (max-device-width: 795px), (max-width: 795px) {
+
+	.header-container {
+		height: auto !important;
+	}
+
+	.header {
+		margin: 0 auto !important;
+	}
+
+
+	.header h1, .header p {
+		float: none;
+		margin: 0 auto;
+		text-align: center;
+		background: none;
+		padding-left: 0;
+	}
+
+	.header h1 {
+		margin-top: 10px;
+	}
+
+	.free-quote {
+		padding-top: 1px;
+		height: 144px;
+	}
+
+	.free-quote p {
+		float: none;
+		margin: 24px auto 0 auto;
+	}
+
+	.part {
+		margin-bottom: 30px;
+	}
+
+		.why-angel h2 {
+	font-size: 16px !important;
+	}
+	
+	.why-angel{
+	padding-bottom: 10px !important;
+	}
+}
+
+@media screen and (max-device-width: 620px), (max-width: 620px) {
+
+	.our-sydney-carpet-cleaning-process {
+		width: 300px;
+	}
+
+	.our-sydney {
+		margin-bottom: 10px;
+	}
+
+}
+
+@media screen and (max-device-width: 580px), (max-width: 580px) {
+
+	.header p {
+		font-size: 28px;
+	}
+
+	.get-your-obligation h2 {
+		display: none;
+	}
+
+	.carpet-cleaning-specialists {
+		width: auto;
+		height: auto;
+		padding-left: 10px;
+		padding-right: 10px;
+		position: relative;
+		background-position: bottom right;
+		background-size: contain;
+	}
+
+	.carpet-cleaning-specialists p, .carpet-cleaning-specialists h2 {
+		position: relative;
+		word-break: break-word;
+	}
+
+	.carpet-cleaning-specialists h2 span {
+		font-size: 45px;
+		letter-spacing: -1px;
+	}
+
+	.carpet-cleaning-specialists:before {
+		content: "";
+		display: block;
+		position: absolute;
+		left: 0;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		background: rgba(256,256,256,.8);
+	}
+
+
+}
+
+@media screen and (max-device-width: 410px), (max-width: 410px) {
+
+	.get-your-obligation {
+		width: auto;
+	}
+
+	.get-your-obligation h2 {
+		margin: 0;
+		text-align: center;
+	}
+
+	.get-your-obligation form {
+		padding-left: 0;
+		background-position: center 34px;
+		padding-right: 0;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	.get-your-obligation form h3 {
+		width: auto;
+		margin-right: 0;
+		background-position: center;
+		font-size: 38px;
+	}
+
+	.get-your-obligation form h3 span:first-child {
+		font-size: 16px;
+	}
+
+	.get-your-obligation form input[type="text"], .get-your-obligation form label, .get-your-obligation form input[type="submit"], .get-your-obligation form select, .get-your-obligation form textarea {
+		margin-left: 4%;
+		margin-right: 4%;
+		width: 92%;
+		-webkit-box-sizing: border-box;
+		-khtml-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		-o-box-sizing: border-box;
+		box-sizing: border-box;
+		background-position: center;
+		-webkit-border-radius: 0;
+		-khtml-border-radius: 0;
+		-moz-border-radius: 0;
+		-ms-border-radius: 0;
+		-o-border-radius: 0;
+		border-radius: 0;
+		border: 0;
+		text-indent: 0;
+	}
+
+	.get-your-obligation form select, .get-your-obligation form textarea, .get-your-obligation form input[type="submit"] {
+		margin-left: 0;
+		margin-right: 0;
+		width: 100%;
+	}
+
+	.customSelect, .customSelectInner {
+		width: 100%;
+		display: block !important;
+		-webkit-box-sizing: border-box;
+		-khtml-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		-o-box-sizing: border-box;
+		box-sizing: border-box;
+		border: none;
+		-webkit-border-radius: 0;
+		-khtml-border-radius: 0;
+		-moz-border-radius: 0;
+		-ms-border-radius: 0;
+		-o-border-radius: 0;
+		border-radius: 0;
+		text-indent: 2px;
+	}
+
+	.why-angel {
+		width: auto;
+		height: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+		padding-bottom: 10px !important;
+	}
+	
+	
+	.why-angel h2 {
+	font-size: 16px !important;
+	}
+
+	.site-name span {
+	-webkit-background-size: 300px 87px !important;
+	background-size: 300px 87px !important;
+	}
+	.what-are-you-waiting-for {
+		background: #87d24f url('../images/bg_bottom-banner-mobile.png') no-repeat -30px bottom;
+		height: auto;
+		padding-top: 0;
+	}
+
+	.what-are-you-waiting-for-inner:before {
+		display: none;
+	}
+
+	.what-are-you-waiting-for-inner {
+		background: none;
+	}
+
+	.what-are-you {
+		width: auto;
+		padding: 10px;
+	}
+
+}
+
+@media screen and (device-aspect-ratio: 2/3) {
+.site-name span {
+	-webkit-background-size: 300px 87px !important;
+	background-size: 300px 87px !important;
+	}
+
+	.why-angel h2 {
+	font-size: 16px !important;
+	}
+	.why-angel{
+	padding-bottom: 10px !important;
+	}
+}
+
+@media screen and (device-aspect-ratio: 40/71) {
+.site-name span {
+	-webkit-background-size: 300px 87px !important;
+	background-size: 300px 87px !important;
+	}
+	.why-angel h2 {
+	font-size: 16px !important;
+	}
+	.why-angel{
+	padding-bottom: 10px !important;
+	}
+}

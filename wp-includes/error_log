@@ -1,0 +1,39 @@
+[01-Nov-2015 18:11:02 UTC] PHP Fatal error:  Class 'Walker' not found in /home/allridpe/public_html/wp-includes/category-template.php on line 912
+[01-Nov-2015 18:11:08 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/allridpe/public_html/wp-includes/class-simplepie.php on line 5
+[01-Nov-2015 18:11:08 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/allridpe/public_html/wp-includes/class-simplepie.php on line 5
+[01-Nov-2015 18:11:08 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/allridpe/public_html/wp-includes/class-simplepie.php on line 5
+[01-Nov-2015 18:11:09 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/allridpe/public_html/wp-includes/class-snoopy.php on line 6
+[01-Nov-2015 18:11:15 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/allridpe/public_html/wp-includes/class-wp-embed.php on line 26
+[01-Nov-2015 18:11:16 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/allridpe/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[01-Nov-2015 18:11:16 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/allridpe/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[01-Nov-2015 18:11:17 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/allridpe/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[01-Nov-2015 18:11:19 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/allridpe/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[01-Nov-2015 18:11:21 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/allridpe/public_html/wp-includes/class.wp-scripts.php on line 19
+[01-Nov-2015 18:11:22 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/allridpe/public_html/wp-includes/class.wp-styles.php on line 19
+[01-Nov-2015 18:11:22 UTC] PHP Fatal error:  Class 'Walker' not found in /home/allridpe/public_html/wp-includes/comment-template.php on line 1662
+[01-Nov-2015 18:11:26 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/allridpe/public_html/wp-includes/default-filters.php on line 17
+[01-Nov-2015 18:11:26 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/allridpe/public_html/wp-includes/default-widgets.php on line 14
+[01-Nov-2015 18:11:29 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/allridpe/public_html/wp-includes/feed-atom.php on line 8
+[01-Nov-2015 18:11:29 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/allridpe/public_html/wp-includes/feed-rdf.php on line 8
+[01-Nov-2015 18:11:30 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/allridpe/public_html/wp-includes/feed-rss2-comments.php on line 8
+[01-Nov-2015 18:11:31 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/allridpe/public_html/wp-includes/feed-rss2.php on line 8
+[01-Nov-2015 18:11:32 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/allridpe/public_html/wp-includes/functions.php on line 8
+[01-Nov-2015 18:11:32 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/allridpe/public_html/wp-includes/functions.php on line 8
+[01-Nov-2015 18:11:32 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/allridpe/public_html/wp-includes/functions.php on line 8
+[01-Nov-2015 18:11:39 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/allridpe/public_html/wp-includes/media.php on line 815
+[01-Nov-2015 18:11:40 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/allridpe/public_html/wp-includes/ms-default-constants.php on line 153
+[01-Nov-2015 18:11:41 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/allridpe/public_html/wp-includes/ms-default-filters.php on line 17
+[01-Nov-2015 18:11:44 UTC] PHP Warning:  require_once(ABSPATHWPINC/ms-load.php): failed to open stream: No such file or directory in /home/allridpe/public_html/wp-includes/ms-settings.php on line 14
+[01-Nov-2015 18:11:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/allridpe/public_html/wp-includes/ms-settings.php on line 14
+[01-Nov-2015 18:11:45 UTC] PHP Fatal error:  Class 'Walker' not found in /home/allridpe/public_html/wp-includes/nav-menu-template.php on line 16
+[01-Nov-2015 18:11:49 UTC] PHP Fatal error:  Class 'Walker' not found in /home/allridpe/public_html/wp-includes/post-template.php on line 1292
+[01-Nov-2015 18:11:51 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/allridpe/public_html/wp-includes/registration-functions.php on line 7
+[01-Nov-2015 18:11:52 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/allridpe/public_html/wp-includes/registration.php on line 7
+[01-Nov-2015 18:11:53 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/allridpe/public_html/wp-includes/rss-functions.php on line 8
+[01-Nov-2015 18:11:54 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/allridpe/public_html/wp-includes/rss.php on line 19
+[01-Nov-2015 18:11:54 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/allridpe/public_html/wp-includes/script-loader.php on line 25
+[01-Nov-2015 18:11:54 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/allridpe/public_html/wp-includes/script-loader.php on line 25
+[01-Nov-2015 18:11:54 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/allridpe/public_html/wp-includes/script-loader.php on line 25
+[01-Nov-2015 18:11:57 UTC] PHP Fatal error:  Call to undefined function is_robots() in /home/allridpe/public_html/wp-includes/template-loader.php on line 28
+[01-Nov-2015 18:11:58 UTC] PHP Fatal error:  Call to undefined function is_main_site() in /home/allridpe/public_html/wp-includes/update.php on line 666
+[01-Nov-2015 18:12:00 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/allridpe/public_html/wp-includes/vars.php on line 23
